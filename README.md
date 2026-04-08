@@ -1,16 +1,34 @@
-## Hi there 👋
+Jasarj Babulal
 
-<!--
-**JasrajBabulal895/JasrajBabulal895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building **real-world backend systems** with .NET and Angular.
 
-Here are some ideas to get you started:
+I work on systems that deal with:
+- HTML, CSS, JAVASRIPT
+- API design
+- Data consistency
+- Maintainability over time
+- SQL SERVER 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+### What I do
+- Backend development with **  (Javascript, Laravel, PHP)**
+- Frontend development with **Html**, **CSS**
+- Designing APIs that don’t fall apart under real usage
+- Teaching and mentoring developers through practical examples
+
+
+
+
+---
+
+### Current interests
+- Frontend Developer
+- Manage Website
+- Software Engineering
+- Backend–frontend integration failures that kill products
+
+---
+
